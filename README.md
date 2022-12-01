@@ -1,7 +1,7 @@
 # CalculadoraIMC
 En esta calculadora dejo mis conocimientos puestos en lo aprendido con el primer curso de Oracle ONE
 
-                                                                Preview
+                                                    Preview
 
 ![image](https://user-images.githubusercontent.com/81688973/205086999-99d1067b-c7ea-4dec-ac79-a6fb016eccb7.png)
 
